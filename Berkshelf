@@ -1,0 +1,4 @@
+site :opscode
+
+cookbook 'rbenv', git: 'https://github.com/fnichol/chef-rbenv'
+cookbook 'redmine2', git: 'https://github.com/aminin/redmine2-cookbook'
